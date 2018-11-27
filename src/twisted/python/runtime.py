@@ -32,8 +32,8 @@ knownPlatforms = {
 
 
 _timeFunctions = {
-    #'win32': time.clock,
-    'win32': time.time,
+    'win32': time.clock,
+    # 'win32': time.time,
     }
 
 
